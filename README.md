@@ -1,4 +1,4 @@
-Pinout of a laptop USB camera module out of an acer aspire laptop
+Pinout of a laptop USB camera module out of an acer laptop
 ![Pinout image](acer_aspire_web_camera.jpg)
 
 #### More info:
